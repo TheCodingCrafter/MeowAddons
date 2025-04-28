@@ -1,0 +1,468 @@
+[
+    {
+        "category": "Chat",
+        "settings": [
+            {
+                "type": 6,
+                "name": "chatcleaner",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "betterah",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "betterbz",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "cleantoggle",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "cleanfriendjoin",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "cleanguildjoin",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "cleanpartyjoin",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "formatchatmessage",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "partyformat",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "guildformat",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "togglecustomchatrankcolor",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "mvppluspluscolor",
+                "value": "6"
+            },
+            {
+                "type": 4,
+                "name": "mvppluscolor",
+                "value": "b"
+            },
+            {
+                "type": 4,
+                "name": "mvpcolor",
+                "value": "b"
+            },
+            {
+                "type": 4,
+                "name": "vippluscolor",
+                "value": "a"
+            },
+            {
+                "type": 4,
+                "name": "vipcolor",
+                "value": "a"
+            }
+        ]
+    },
+    {
+        "category": "Meowing",
+        "settings": [
+            {
+                "type": 6,
+                "name": "automeow",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "randomdelayautomeow",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "meowsounds",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "meowhitsound",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "meowhitradius",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "category": "Slayers",
+        "settings": [
+            {
+                "type": 6,
+                "name": "slayermaintoggle",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "slayerkilltimer",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "slayerbossdisplay",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "slayerbossdisplayedit"
+            },
+            {
+                "type": 6,
+                "name": "slayerbosshighlight",
+                "value": false
+            },
+            {
+                "type": 9,
+                "name": "carryinfo"
+            },
+            {
+                "type": 2,
+                "name": "carryedit"
+            },
+            {
+                "type": 4,
+                "name": "carryvalue",
+                "value": "1.3"
+            },
+            {
+                "type": 6,
+                "name": "notifybossspawn",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "minibossspawn",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "sendminibossmsg",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "sendtrademsg",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "carrytimesend",
+                "value": "true"
+            },
+            {
+                "type": 6,
+                "name": "sendcarrycount",
+                "value": "true"
+            },
+            {
+                "type": 6,
+                "name": "drawcarrybox",
+                "value": false
+            },
+            {
+                "type": 5,
+                "name": "carryboxcolor",
+                "value": [
+                    0,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 7,
+                "name": "bossph",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "renderbossoutline",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "renderplayeroutline",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "sendcarrycountdc",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "webhookurlcarry",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "category": "Dungeons",
+        "settings": [
+            {
+                "type": 6,
+                "name": "blood",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "sendbloodparty",
+                "value": false
+            },
+            {
+                "type": 9,
+                "name": "dgcarryinfo"
+            },
+            {
+                "type": 6,
+                "name": "senddgcarrycount",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "serverlagtimer",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "colormimicchests",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "mimicdeathmsg",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "lividvuln",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "lividvulnedit"
+            },
+            {
+                "type": 6,
+                "name": "masknotifier",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "leapannounce",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "hideafterleap",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "hideleaptime",
+                "value": "10"
+            },
+            {
+                "type": 6,
+                "name": "batdeadtitle",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "f7title-crush",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "f7title-necron",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "f7title-dead",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "f7p3timer",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "showTerm",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "showTermClass",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "showTermClassDistance",
+                "value": 14
+            },
+            {
+                "type": 6,
+                "name": "boxTerm",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "sendTermInChat",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "category": "Misc.",
+        "settings": [
+            {
+                "type": 6,
+                "name": "customsize",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "customX",
+                "value": "0.7"
+            },
+            {
+                "type": 4,
+                "name": "customY",
+                "value": "0.7"
+            },
+            {
+                "type": 4,
+                "name": "customZ",
+                "value": "0.7"
+            },
+            {
+                "type": 6,
+                "name": "custommodel",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "custommodeltype",
+                "value": 1
+            },
+            {
+                "type": 7,
+                "name": "catmodeltype",
+                "value": 3
+            },
+            {
+                "type": 6,
+                "name": "blockoverlay",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "blockoverlayfill",
+                "value": false
+            },
+            {
+                "type": 5,
+                "name": "blockoverlaycolor",
+                "value": [
+                    14,
+                    255,
+                    189,
+                    255
+                ]
+            },
+            {
+                "type": 6,
+                "name": "NoClutter",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "noLightning",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "noDeathAni",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "noEnderTP",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "noEmptyTooltip",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "arrowpoistracker",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "arrowpoisonedit"
+            },
+            {
+                "type": 6,
+                "name": "partycmd",
+                "value": false
+            },
+            {
+                "type": 9,
+                "name": "partycmdinfo"
+            }
+        ]
+    },
+    {
+        "category": "Developer",
+        "settings": [
+            {
+                "type": 2,
+                "name": "credit1"
+            },
+            {
+                "type": 2,
+                "name": "credit2"
+            },
+            {
+                "type": 6,
+                "name": "debug",
+                "value": false
+            }
+        ]
+    }
+]
